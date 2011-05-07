@@ -4,3 +4,5 @@ Flash and Flex demos of lua-alchemy in action.
                     controlled by Lua code.
   MiniDemo/ - Minimalistic Lua Alchemy demo.
   Rapid/ - Rapid development prototype.
+  EZPlatformer/ - Port of EZPlatformer game - the demo of flixel framework
+				  (flixel.org)
